@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fasanchez3@uc.cl
+	name = federico sanchez
